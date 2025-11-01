@@ -2,8 +2,6 @@
 
 ![Dashboard Overview](Screenshots/dashboard_overview.png)
 
-![Top Factors](Screenshots/Top_factors.png)
-
 ## 🎯 Project Overview
 
 An interactive Power BI dashboard analyzing employee attrition patterns at IBM, helping HR teams identify retention risks and develop targeted strategies to reduce turnover.
@@ -160,8 +158,8 @@ Download `IBM_HR_Analytics_Report.pdf` from `/Documentation` folder
 
 ## 📸 Screenshots
 
-### Main Dashboard
-![Full Dashboard](Screenshots/dashboard_overview.png)
+### Main Factors of IBM HR analytics
+![Top Factors](Screenshots/Top_factors.png)
 
 ### Department Analysis
 ![Attrition by Department](Screenshots/attrition_by_department.png)
