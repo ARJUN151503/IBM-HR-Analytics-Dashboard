@@ -164,8 +164,13 @@ Download `IBM_HR_Analytics_Report.pdf` from `/Documentation` folder
 ### Department Analysis
 ![Attrition by Department](Screenshots/attrition_by_department.png)
 
-### Filtered View - Sales Analysis
-![Sales Department Focus](Screenshots/filtered_view.png)
+## 📚 Documentation
+
+This project includes comprehensive documentation:
+
+- **[📊 Insights Summary](Documentation/Insights_Summary.md)** - Detailed analysis findings and business recommendations
+- **[📖 Data Dictionary](Documentation/Data_Dictionary.md)** - Complete field definitions and data descriptions
+- **[🖼️ Screenshots](Screenshots/)** - Dashboard visualizations and examples
 
 ## 🎓 What I Learned
 
